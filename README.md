@@ -67,7 +67,7 @@ print("Standard deviation of Y:\t\t",sd_y)
 print("Covariance:\t\t\t\t",Covariance.round(4))
 print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 ~~~
-Output : 
+### Output : 
 ![5](https://user-images.githubusercontent.com/94588708/197121865-57c77511-3a53-42a6-9e23-296631fa25f2.png)
 
 
